@@ -11,7 +11,7 @@
 
 int main(int argc, char *argv[])
 {
-	argv;
+(void) argv;
 
 	return (0);
 }
