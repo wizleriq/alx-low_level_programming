@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdlib.h>
 /**
  * string_nconcat - concs two strings.
  * @s1: first string.
