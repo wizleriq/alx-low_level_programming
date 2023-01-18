@@ -1,4 +1,4 @@
-#include "3_cal.h"
+#include "3-calc.h"
 
 /**
  * op_add - return sum of 2 numbers.
@@ -7,7 +7,7 @@
  *
  * Return: sum.
  */
-int op_add9int a, int b)
+int op_add(int a, int b)
 {
 	return (a +b);
 }
