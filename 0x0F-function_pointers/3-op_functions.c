@@ -27,7 +27,7 @@ int op_sub(int a, int b)
 }
 
 /**
- * op_mu1 -returns product of two numbers.
+ * op_mul -returns product of two numbers.
  * @a: integer.
  * @b: integer.
  *
@@ -52,6 +52,7 @@ int op_div(int a, int b)
 		printf("Error\n");
 		exit(100);
 	}
+
 	return (a / b);
 }
 
@@ -69,6 +70,7 @@ int op_mod(int a, int b)
 		printf("Error\n");
 		exit(100);
 	}
+
 	return (a % b);
 }
 
